@@ -1,4 +1,4 @@
-# C++ Boilerplate
+# Valgrind Boilerplate
 [![Build Status](https://travis-ci.org/akhopkar01/valgrind-boilerplate.svg?branch=main)](https://travis-ci.org/github/akhopkar01/valgrind-boilerplate)
 [![Coverage Status](https://coveralls.io/repos/github/akhopkar01/valgrind-boilerplate/badge.svg?branch=main)](https://coveralls.io/github/akhopkar01/valgrind-boilerplate?branch=main)
 ---
